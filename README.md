@@ -1,7 +1,4 @@
-# ecommerceTemplate
-
-This template should help get you started developing with Vue 3 in Vite.
-
+# Better you with Sabrina, this was made in vue 3 with Boostrap for [Betteryoubysabrina.](https://www.instagram.com/betteryoubysabrina/)
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
